@@ -1,0 +1,7 @@
+C:\Users\bianc\source\repos\tp1_CSharp\tp1_CSharp\bin\Debug\tp1_CSharp.exe.config
+C:\Users\bianc\source\repos\tp1_CSharp\tp1_CSharp\bin\Debug\tp1_CSharp.exe
+C:\Users\bianc\source\repos\tp1_CSharp\tp1_CSharp\bin\Debug\tp1_CSharp.pdb
+C:\Users\bianc\source\repos\tp1_CSharp\tp1_CSharp\obj\Debug\tp1_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\bianc\source\repos\tp1_CSharp\tp1_CSharp\obj\Debug\tp1_CSharp.exe
+C:\Users\bianc\source\repos\tp1_CSharp\tp1_CSharp\obj\Debug\tp1_CSharp.pdb
+C:\Users\bianc\source\repos\tp1_CSharp\tp1_CSharp\obj\Debug\tp1_CSharp.csprojResolveAssemblyReference.cache
